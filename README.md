@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Wichaya Thiranuntakan</h1>
 
 ## 📌 About Me
-- I'm a Computer Engineering student at Srinakharinwirot University with a current GPAX of **3.41**
+- I'm a Computer Engineering student at Srinakharinwirot University with a current GPAX of **3.47**
 - Passionate about building full-stack applications that solve real-world problems
 - I completed an internship where I helped build platforms for employee welfare and reward redemption, using React, Redux, Material UI, and Node.js. I also worked with Google Cloud services like Google Cloud SQL and Storage Bucket to manage data and media.
 - Eager to learn more about DevOps, system design, and scalable backend architecture
@@ -13,14 +13,13 @@
 ## 🛠 Tech Stack & Tools
 
 ### 💻 Frontend
-- HTML5, CSS3
+- React, Next.js, Redux, Tanstack Query
 - JavaScript, TypeScript
-- React, Next.js, Redux
-- Material UI, Tailwind CSS, Bootstrap
+- Material UI, Tailwind CSS, Ant Design, Bootstrap
 
 ### 🧩 Backend
-- Node.js, Express.js, NestJS, FastAPI
-- Java, Golang, Python
+- Node.js, Express.js, NestJS, FastAPI, Axum
+- Golang, Python, Rust
 
 ### 🗃️ Databases & Tools
 - MySQL, PostgreSQL, MongoDB, Redis
@@ -28,4 +27,4 @@
 
 ### ⚙️ Cloud & Deployment
 - Docker, Git, Linux
-- Google Cloud Platform (GCP)
+- Google Cloud Platform (GCP), Digital Ocean (Ubuntu droplet)
