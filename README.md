@@ -27,4 +27,4 @@
 
 ### ⚙️ Cloud & Deployment
 - Docker, Git, Linux
-- Google Cloud Platform (GCP), Digital Ocean (Ubuntu droplet)
+- Google Cloud Platform (GCP), Digital Ocean (Droplet Ubuntu, S3)
